@@ -91,6 +91,20 @@
     <changefreq>monthly</changefreq>
     <priority>0.95</priority>
   </url>
+  <url>
+    <loc>https://news.teduza.com/ru/news/mars-companion-llc-uchrezhdaet-david-sargsyan-ai-research-lab</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/news/mars-companion-llc-uchrezhdaet-david-sargsyan-ai-research-lab" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/news/mars-companion-llc-establishes-david-sargsyan-ai-research-lab" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/news/mars-companion-llc-establishes-david-sargsyan-ai-research-lab</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/news/mars-companion-llc-uchrezhdaet-david-sargsyan-ai-research-lab" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/news/mars-companion-llc-establishes-david-sargsyan-ai-research-lab" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
   <!-- Author Profiles with Google Image sitemap tags -->
   <url>
     <loc>https://news.teduza.com/ru/authors/aleksandr-sarkisian</loc>
