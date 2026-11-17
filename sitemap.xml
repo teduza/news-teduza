@@ -18,6 +18,36 @@
     <priority>1.0</priority>
   </url>
 
+  <!-- Important Section & Pinned Official Notices -->
+  <url>
+    <loc>https://news.teduza.com/ru/important</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/important" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/important" />
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/important</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/important" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/important" />
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/ru/important/pravo-kompanii-na-otkaz-v-predostavlenii-uslug-i-ustanovlenii-delovykh-otnosheniy</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/important/pravo-kompanii-na-otkaz-v-predostavlenii-uslug-i-ustanovlenii-delovykh-otnosheniy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/important/the-companys-right-to-refuse-services-and-establish-business-relationships" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/important/the-companys-right-to-refuse-services-and-establish-business-relationships</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/important/pravo-kompanii-na-otkaz-v-predostavlenii-uslug-i-ustanovlenii-delovykh-otnosheniy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/important/the-companys-right-to-refuse-services-and-establish-business-relationships" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
   <!-- Categories -->
   <url>
     <loc>https://news.teduza.com/ru/ip</loc>
