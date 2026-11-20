@@ -48,6 +48,21 @@
     <priority>0.95</priority>
   </url>
 
+  <url>
+    <loc>https://news.teduza.com/ru/important/ofitsialnoe-razyasnenie-o-poryadke-vladeniya-korporativnymi-dolyami-i-nedelimosti-intellektualnoy-sobstvennosti</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/important/ofitsialnoe-razyasnenie-o-poryadke-vladeniya-korporativnymi-dolyami-i-nedelimosti-intellektualnoy-sobstvennosti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/important/official-clarification-on-corporate-share-ownership-and-indivisibility-of-intellectual-property" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://news.teduza.com/en/important/official-clarification-on-corporate-share-ownership-and-indivisibility-of-intellectual-property</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://news.teduza.com/ru/important/ofitsialnoe-razyasnenie-o-poryadke-vladeniya-korporativnymi-dolyami-i-nedelimosti-intellektualnoy-sobstvennosti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://news.teduza.com/en/important/official-clarification-on-corporate-share-ownership-and-indivisibility-of-intellectual-property" />
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
   <!-- Categories -->
   <url>
     <loc>https://news.teduza.com/ru/ip</loc>
